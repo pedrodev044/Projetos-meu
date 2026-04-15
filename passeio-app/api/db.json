@@ -1,0 +1,50 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Shoppings",
+      "descricao": "Lugares para fazer compras e passear"
+    },
+    {
+      "id": "1ed9",
+      "nome": "Praias",
+      "descricao": "Lugares para tomar banho com a familia"
+    },
+    {
+      "id": "31ca",
+      "nome": "Bares",
+      "descricao": "teste"
+    },
+    {
+      "id": "3dd7",
+      "nome": "Parques",
+      "descricao": "teste 2"
+    }
+  ],
+  "lugares": [
+    {
+      "nome": "Parque do Ouro Branco",
+      "categoria": "Parques",
+      "localizacao": "Paranavaí-Pr",
+      "urlFoto": "https://image.portaldacidade.com/unsafe/https://bucket.portaldacidade.com/paranavai.portaldacidade.com/img/news/2021-11/lago-do-parque-ouro-branco-e-nomeado-amaro-da-silva-618d157905493.jpeg",
+      "avaliacao": "3",
+      "id": "UIz6mfP"
+    },
+    {
+      "nome": "Praça dos Pioneiros",
+      "categoria": "Parques",
+      "localizacao": "Paranavaí-Pr",
+      "urlFoto": "https://image.portaldacidade.com/unsafe/https://bucket.portaldacidade.com/paranavai.portaldacidade.com/img/news/2021-07/praca-dos-pioneiros-sera-revitalizada-r-500-mil-serao-destinados-a-obra-60fc3f42380c1.jpeg",
+      "avaliacao": "4",
+      "id": "uP3O6qK"
+    },
+    {
+      "nome": "Shopping",
+      "categoria": "Shoppings",
+      "localizacao": "Paranavaí-Pr",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7f/f6/f5/vista-frontal.jpg",
+      "avaliacao": "5",
+      "id": "4ollYri"
+    }
+  ]
+}
